@@ -12,4 +12,4 @@ try:
 
 except ValueError:
     # 处理非数字输入
-    print("输入错误: 请输入有效的年份数字"）
+    print("输入错误: 请输入有效的年份数字")
